@@ -1,0 +1,7 @@
+{
+  "name": "luogu-paste-image",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "build": "node scripts/build.mjs", "test": "node --test --test-isolation=none tests/*.test.mjs", "check": "node --check luogu-paste-image.user.js" }
+}
